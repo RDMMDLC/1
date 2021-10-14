@@ -1,0 +1,1 @@
+# cpuminer-comp-windows
